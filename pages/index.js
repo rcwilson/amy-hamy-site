@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Happy Birthday, Amy!!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Happy Birthday!
         </p>
       </main>
 
