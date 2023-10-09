@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#code-settings
+.vs/
+
 # next.js
 /.next/
 /out/
