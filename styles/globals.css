@@ -1,9 +1,10 @@
-html,
-body {
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+html, body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
-    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-repeat: repeat;
+  background-image: url('/img/background/fabric.webp');
 }
 
 * {
@@ -26,10 +27,32 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
-.container {
+/* .container {
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+} */
+
+.main-content {
+  background-color: rgba(43, 44, 66, 0.089);
+  color: white;
+  padding: .25rem;
+  border-radius: 5%;
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+    background: rgb(0, 48, 237, 0.7);
+}
+
+.navbar-brand.name-color {
+/*  color: rgb(88, 24, 85);*/
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.527) 1px 1px 3px;
+  font-weight: bold;
+  font-family:'Satisfy', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
