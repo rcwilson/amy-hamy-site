@@ -7,9 +7,7 @@ export default function SocialMedia() {
     <>
 
       <IndexTemplate pageTitle='Social Media'>
-        <p>
           Info about Amy Hamby
-        </p>
       </IndexTemplate>
     
     </>

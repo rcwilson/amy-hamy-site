@@ -8,9 +8,7 @@ export default function Art() {
     <>
 
       <IndexTemplate pageTitle='Art'>
-        <p>
           Info about Amy Hamby
-        </p>
       </IndexTemplate>
     
     </>
