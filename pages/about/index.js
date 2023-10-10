@@ -8,9 +8,7 @@ export default function About() {
     <>
 
       <IndexTemplate pageTitle='About'>
-        <p>
           Info about Amy Hamby
-        </p>
       </IndexTemplate>
     
     </>

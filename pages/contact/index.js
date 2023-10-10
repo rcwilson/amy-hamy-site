@@ -8,9 +8,7 @@ export default function Contact() {
     <>
 
       <IndexTemplate pageTitle='Contact'>
-        <p>
           Amy Hamby's Email
-        </p>
       </IndexTemplate>
     
     </>

@@ -36,7 +36,7 @@ code {
 } */
 
 .main-content {
-  background-color: rgba(43, 44, 66, 0.089);
+  /* background-color: rgba(43, 44, 66, 0.089); */
   color: white;
   padding: .25rem;
   border-radius: 5%;
